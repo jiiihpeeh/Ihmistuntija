@@ -1,5 +1,5 @@
 # Ihmistuntija - A Human Conoisseour
-This is a funny OCR'd pseudoscientific booklet on Physiognomy in Finnish transfomed to XeLaTeX
+This is a funny OCR'd pseudoscientific booklet on Physiognomy in Finnish transfomed into XeLaTeX
 
 ## Fonts-Kirjasimet
 Kleist-Fraktur https://www.dafont.com/kleist-fraktur.font
