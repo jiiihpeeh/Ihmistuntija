@@ -11,5 +11,5 @@ Crimson Text https://fonts.google.com/specimen/Crimson+Text
 Tämä on kuvaluettu tekstitunnistettu versio hauskasta näennäistieteellisestä Ihmistuntija-kirjasesta.
 Asenna kirjasimet ja käännä xelatex-ohjelmalla.
 
-# Lataa PDF
+# Lataa valmiiksi käännetty PDF
 Linkki: https://github.com/jiiihpeeh/Ihmistuntija/releases/download/release/ihmistuntija.pdf
