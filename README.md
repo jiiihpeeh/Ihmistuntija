@@ -2,7 +2,7 @@
 This is a funny OCR'd pseudoscientific booklet on Physiognomy in Finnish transfomed into XeLaTeX
 
 ## Fonts-Kirjasimet
-Kleist-Fraktur https://www.dafont.com/kleist-fraktur.font
+UnifrakturMaguntia https://fonts.google.com/specimen/UnifrakturMaguntia
 
 Crimson Text https://fonts.google.com/specimen/Crimson+Text
 
