@@ -1,6 +1,8 @@
 # Ihmistuntija - A Human Conoisseour
-This is a funny OCR'd pseudoscientific booklet on Physiognomy in Finnish transfomed into XeLaTeX
+
 tahi taito, että ensimmäisestä silmäyksestä erehtymättä voi arvostella niiden henkilöiden luonnetta, taipumuksia, elämän tapoja j.n.e., joiden kanssa elämässä tulemme yhteyteen : aikamme välttämättömin käsikirja kaikille niille, jotka ulkonaisesta ihmisestä tahtovat tulla tuntemaan sisällisen
+
+This is a funny OCR'd pseudoscientific booklet on Physiognomy in Finnish transfomed into XeLaTeX.
 
 ## Fonts-Kirjasimet
 Download the bundle here/ Lataa pakkaus tästä https://github.com/jiiihpeeh/Ihmistuntija/blob/main/fonts/fonts.zip
